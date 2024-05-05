@@ -3,7 +3,7 @@ This is a simple notes app built with React and Django.
 
 ## Flow Chart
 
-![Flowchart](https://github.com/username/repository/raw/branch/folder/image.png)
+![Flowchart](https://github.com/Amanlath1/django-notes-app-test-project/blob/main/flowchart1.png)
 
 ## Requirements
 1. Python 3.9
