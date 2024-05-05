@@ -32,3 +32,8 @@ Install Nginx reverse proxy to make this application available
 
 `sudo apt-get update`
 `sudo apt install nginx`
+
+## Website
+
+[Project Live website](http://20.244.106.200:8000/)
+
