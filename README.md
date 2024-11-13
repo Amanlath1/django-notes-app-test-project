@@ -18,12 +18,12 @@ git clone https://github.com/Amanlath1/django-notes-app-test-project
 
 2. Build the app
 ```
-docker build -t notes-app .
+docker build -t amanlath643/my-note-app .
 ```
 
 3. Run the app
 ```
-docker run -d -p 8000:8000 notes-app:latest
+docker run -d -p 8000:8000 amanlath643/my-note-app:latest
 ```
 
 ## Nginx
@@ -35,5 +35,5 @@ Install Nginx reverse proxy to make this application available
 
 ## Website
 
-[Project Live website](http://20.244.106.200:8000/)
+[Project Live website](http://13.233.103.213:8000/)
 
